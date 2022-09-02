@@ -13,6 +13,6 @@ I am applying Support Vector Machine (SVM) Classifier.
 
 ### Workflow:
 
-Diabetees Data ---> Data Preprocessing ---> Train Test Split ---> SVM Classifier
+Diabetes Data ---> Data Preprocessing ---> Train Test Split ---> SVM Classifier
 
 New Data ---> SVM Classifier ---> Diabetic or Non-Diabetic Patient
